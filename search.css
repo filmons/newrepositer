@@ -1,0 +1,80 @@
+body{
+	background-color: rgb(168, 224, 230);
+	padding-left: 5%;
+	padding-right: 5%;
+}
+.myseaction{
+    background-color: white;
+    padding-left: 2%;
+   padding-right: 2%;
+   padding-bottom: 2%;
+
+}
+.search{
+    display: flex;
+	align-items: center;
+	
+	
+    
+}
+hr{
+    height: 2px;
+    width: 80%;
+    height: 2px;
+    width: 80%;
+    background-color: rgb(110, 100, 100);
+    border: none;
+}
+h2{
+    background-color: rgb(184, 180, 174);
+    border-radius: 50%;
+    border-radius: 50%;
+    border: 1px solid #000;
+    width: 50px;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 2rem;
+}
+
+.myseaction{
+	background-color: white;
+	
+}
+.myButton {
+	background:linear-gradient(to bottom, #44c767 5%, #5cbf2a 100%);
+	background-color:#44c767;
+	border-radius:10px;
+	border:3px solid #18ab29;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:20px;
+	padding:10px 30px;
+	text-decoration:none;
+	text-shadow:-1px 0px 13px #2f6627;
+}
+.myButton:hover {
+	background:linear-gradient(to bottom, #5cbf2a 5%, #44c767 100%);
+	background-color:#5cbf2a;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
+
+.border{
+	width: 97r%;
+	border: solid;
+	border-color: #d0150c;
+	display: flex;
+    justify-content: flex-end;
+}
+.attention{
+	text-align: left;
+	margin-bottom: 2%;
+	clear: left;
+	display: flex;
+}
