@@ -1,8 +1,8 @@
 body{
-    background-color: rgb(97, 90, 89);
+    background-color:black;
+   
      
 }
-
 .search{
     display: flex;
     align-items: center;
@@ -18,10 +18,7 @@ hr{
 }
 div{
     background-color:rgb(180, 169, 169);
-}
-img{
- height: 50%;
- 
+    padding-bottom: 2%;
 }
 .deuxchose{
     display: flex;
@@ -48,4 +45,19 @@ h2{
     border: solid 1px red;
     display: flex;
     justify-content: end; 
+}
+.photo-section{
+    background-image: url(food.jpg);
+    height: 243px;
+    border-left: 3%;
+    border: solid;
+    margin-left: 2%;
+    margin-right: 2%;
+}
+.description{
+    text-align: center;
+    font-size: 58px;
+    text-align: center;
+    color: white;
+    font-family: fantasy;
 }
