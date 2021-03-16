@@ -1,6 +1,7 @@
 body{
-    background-color: rgb(97, 90, 89);
+    background-color:rgba(20, 16, 16, 0.993);
 }
+
 .myseaction{
     background-color: white;
     padding-left: 2%;
@@ -34,25 +35,19 @@ h2{
     align-items: center;
     font-size: 2rem;
 }
-.green{
-    border-style: solid;
-    padding: 2%;
-    border-color: greenyellow;
 
+
+.ferst{
+    width: 16%;
+    bottom: 2%;
+    padding-right: 2rem;
 }
-.yelow{
-    border-style: solid;
-    padding: 2%;
-    border-color: rgb(250, 222, 64);
-
-
-
+.deuxchose{
+    background-color:white;
+    display: flex;
+   
+    
 }
-.read{
-    border-style: solid;
-    padding: 2%;
-    border-color: rgb(230, 117, 11);
-
-
-
+.myall{
+    background-color: whitesmoke;
 }

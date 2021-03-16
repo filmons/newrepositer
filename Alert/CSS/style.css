@@ -1,0 +1,84 @@
+body {
+  background-color: white;
+}
+
+.box {
+  background-color: whitesmoke;
+  box-shadow: whitesmoke;
+  margin: auto;
+}
+
+.green {
+  margin-bottom: 3%;
+}
+
+.yelow {
+  margin-bottom: 3%;
+}
+
+.myseaction {
+  padding-left: 2%;
+  padding-right: 2%;
+  padding-bottom: 2%;
+}
+
+.search {
+  display: flex;
+  align-items: center;
+}
+
+hr {
+  height: 2px;
+  width: 80%;
+  height: 2px;
+  width: 80%;
+  background-color: #ddd;
+  border: none;
+}
+
+h2 {
+  background-color: #b8b4ae;
+  border-radius: 50%;
+  border-radius: 50%;
+  border: 1px solid #000;
+  width: 50px;
+  height: 50px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 2rem;
+}
+
+.green {
+  border-style: solid;
+  border-radius: 2rem;
+  padding: 2%;
+  border-color: #a5ff1e;
+  display: flex;
+  justify-content: space-between;
+}
+
+.yelow {
+  border-style: solid;
+  border-radius: 2rem;
+  padding: 2%;
+  border-color: #fade40;
+  display: flex;
+  justify-content: space-between;
+}
+
+.read {
+  border-style: solid;
+  border-radius: 2rem;
+  padding: 2%;
+  border-color: #e6750b;
+  display: flex;
+  justify-content: space-between;
+}
+
+.img1 {
+  width: 2rem;
+  height: 2rem;
+}
+
+/*# sourceMappingURL=style.css.map */

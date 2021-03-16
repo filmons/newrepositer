@@ -1,10 +1,11 @@
 body{
     background-color: rgb(97, 90, 89);
+    display: flex;
+    flex-direction: column;
 }
 .search{
     display: flex;
     align-items: center;
-    
 }
 hr{
     height: 2px;
@@ -14,20 +15,16 @@ hr{
     background-color: #ddd;
     border: none;
 }
-div{
+.continner{
     background-color:white;
 }
 img{
-    
-    height: 20px;
-    
-
-    
+    height: 36px;
 }
 .deuxchose{
     background-color: blanchedalmond;
-    display: flex;
-    justify-content: center;
+    display:flex ;
+    justify-content: space-around;
 }
 h2{
     background-color: rgb(184, 180, 174);
@@ -41,3 +38,11 @@ h2{
     align-items: center;
     font-size: 2rem;
 }
+ .allicon{
+     
+
+ }
+ .first-para{
+     display: flex;
+
+ }

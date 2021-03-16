@@ -3,8 +3,7 @@ body{
 }
 .search{
     display: flex;
-    align-items: center;
-    
+    align-items: center;  
 }
 hr{
     height: 2px;
@@ -15,16 +14,23 @@ hr{
     border: none;
 }
 div{
+    padding: 2%;
     background-color:white;
 }
 section>img{
     height: 50px;
-    border-radius: 50%;
-    
-
-    
+    border-radius: 50%;   
 }
-.deuxchose{
+.continer1{
+    border: 1px solid;
+    background-color: blanchedalmond;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 1%;
+
+}
+.continer2{
+    border: 1px solid;
     background-color: blanchedalmond;
     display: flex;
     justify-content: center;
@@ -40,4 +46,10 @@ h2{
     justify-content: center;
     align-items: center;
     font-size: 2rem;
+}
+.attantion{
+    width: 4%;
+}
+.attantion-img{
+    display: flex;
 }

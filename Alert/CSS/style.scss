@@ -1,0 +1,73 @@
+@import "./Base/index.scss";
+
+.myseaction {
+    // background-color: white;
+    padding-left: 2%;
+   padding-right: 2%;
+   padding-bottom: 2%;
+
+}
+.search{
+    display: flex;
+    align-items: center;
+    
+}
+hr{
+    height: 2px;
+    width: 80%;
+    height: 2px;
+    width: 80%;
+    background-color: #ddd;
+    border: none;
+}
+ 
+h2{
+    background-color: rgb(184, 180, 174);
+    border-radius: 50%;
+    border-radius: 50%;
+    border: 1px solid #000;
+    width: 50px;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 2rem;
+}
+.green{
+    border-style: solid;
+    border-radius: 2rem;
+    padding: 2%;
+    border-color: #a5ff1e;
+    display: flex;
+    justify-content: space-between;
+
+
+}
+.yelow{
+    border-style: solid;
+    border-radius: 2rem;
+    padding: 2%;
+    border-color: rgb(250, 222, 64);
+    display: flex;
+    justify-content: space-between;
+
+
+
+
+}
+.read{
+    border-style: solid;
+    border-radius: 2rem;
+    padding: 2%;
+    border-color: rgb(230, 117, 11);
+    display: flex;
+    justify-content: space-between;
+
+
+
+
+}
+.img1{
+    width: 2rem;
+    height: 2rem;
+}
