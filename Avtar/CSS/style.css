@@ -1,0 +1,75 @@
+body {
+  background-color: white;
+}
+
+.search {
+  display: flex;
+  align-items: center;
+}
+
+hr {
+  height: 2px;
+  width: 80%;
+  height: 2px;
+  width: 80%;
+  background-color: #ddd;
+  border: none;
+}
+
+div {
+  background-color: whitesmoke;
+}
+
+h2 {
+  background-color: #c5baa6;
+  border-radius: 50%;
+  border-radius: 50%;
+  border: 1px solid #000;
+  width: 50px;
+  height: 50px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 2rem;
+}
+
+.ferst {
+  width: 83px;
+  height: 90px;
+  border-radius: 50%;
+  border: solid;
+  color: wheat;
+  border-radius: 50%;
+}
+
+.second {
+  width: 144px;
+  height: 110px;
+  border-radius: 50%;
+  border: solid;
+  color: black;
+  border-radius: 50%;
+}
+
+.therd {
+  width: 83px;
+  height: 90px;
+  border-radius: 50%;
+  border: solid;
+  color: wheat;
+  border-radius: 50%;
+}
+
+.forth {
+  width: 83px;
+  height: 90px;
+  border: solid;
+  color: wheat;
+}
+
+.deuxchose {
+  padding-bottom: 1%;
+  display: flex;
+}
+
+/*# sourceMappingURL=style.css.map */
